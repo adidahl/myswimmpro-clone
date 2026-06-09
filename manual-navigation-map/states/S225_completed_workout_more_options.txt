@@ -1,0 +1,17 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (680,169,1268,649)
+2. ListView: "android.widget.ListView" - (680,193,1268,625)
+3. LinearLayout: "android.widget.LinearLayout" - (680,193,1268,337)
+4. TextView: "com.myswimpro.android.app:id/title", "Share" - (728,232,1220,297)
+5. LinearLayout: "android.widget.LinearLayout" - (680,337,1268,481)
+6. TextView: "com.myswimpro.android.app:id/title", "Export to PDF" - (728,376,1220,441)
+7. LinearLayout: "android.widget.LinearLayout" - (680,481,1268,625)
+8. TextView: "com.myswimpro.android.app:id/title", "Delete" - (728,520,1220,585)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.activity.CompletedWorkoutActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

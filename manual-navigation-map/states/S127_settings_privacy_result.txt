@@ -1,0 +1,20 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. RelativeLayout: "com.myswimpro.android.app:id/rlLimitTracking", "com.myswimpro.android.app:id/rlLimitTracking" - (0,96,1280,347)
+3. TextView: "com.myswimpro.android.app:id/tvLimitTracking", "Limit Tracking" - (36,132,1124,205)
+4. TextView: "Limit analytics tracking to only non-personally identifiable information" - (36,205,1124,311)
+5. Switch: "com.myswimpro.android.app:id/trackingToggle", "com.myswimpro.android.app:id/trackingToggle" ; isChecked=False - (1124,149,1268,293)
+6. RelativeLayout: "com.myswimpro.android.app:id/rlPrivacy", "com.myswimpro.android.app:id/rlPrivacy" - (0,443,1280,623)
+7. TextView: "Privacy Policy" - (474,496,806,569)
+8. RelativeLayout: "com.myswimpro.android.app:id/rlDownload", "com.myswimpro.android.app:id/rlDownload" - (0,719,1280,899)
+9. TextView: "Download Account Data" - (351,772,928,845)
+10. RelativeLayout: "com.myswimpro.android.app:id/rlDelete", "com.myswimpro.android.app:id/rlDelete" - (0,995,1280,1175)
+11. TextView: "Delete Account" - (457,1048,823,1121)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.activity.PrivacyActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

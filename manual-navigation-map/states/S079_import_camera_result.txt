@@ -1,0 +1,14 @@
+**Current Phone State:**
+• **App:** Camera (com.android.camera2)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. View: "com.android.camera2:id/preview_overlay", "com.android.camera2:id/preview_overlay" - (0,0,1280,2856)
+3. LinearLayout: "com.android.camera2:id/mode_options_toggle", "Options" - (1099,2314,1244,2460)
+4. ImageView: "com.android.camera2:id/three_dots", "Options" - (1135,2350,1207,2422)
+5. ImageView: "com.android.camera2:id/shutter_button", "Shutter" - (0,2496,1280,2856)
+
+Phone state: {'currentApp': 'Camera', 'packageName': 'com.android.camera2', 'activityName': 'com.android.camera.CaptureActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

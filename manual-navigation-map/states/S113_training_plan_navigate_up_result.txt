@@ -1,0 +1,23 @@
+**Current Phone State:**
+• **App:** Google Play Store (com.android.vending)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ViewGroup: "com.android.vending:id/0_resource_name_obfuscated", "com.android.vending:id/0_resource_name_obfuscated" - (0,156,1280,2784)
+3. ScrollView: "com.android.vending:id/0_resource_name_obfuscated", "com.android.vending:id/0_resource_name_obfuscated" - (0,1812,1280,2784)
+4. TextView: "com.android.vending:id/0_resource_name_obfuscated", "Adi Dahl" - (507,1860,1136,1932)
+5. TextView: "com.android.vending:id/0_resource_name_obfuscated", "MySwimPro" - (222,2079,1184,2132)
+6. TextView: "com.android.vending:id/0_resource_name_obfuscated", "Reviews are public and include your account and device info. Learn more" - (222,2156,1184,2280)
+7. ImageView: "com.android.vending:id/0_resource_name_obfuscated", "First star unselected" - (214,2328,361,2472)
+8. ImageView: "com.android.vending:id/0_resource_name_obfuscated", "Second star unselected" - (361,2328,559,2472)
+9. ImageView: "com.android.vending:id/0_resource_name_obfuscated", "Third star unselected" - (559,2328,757,2472)
+10. ImageView: "com.android.vending:id/0_resource_name_obfuscated", "Fourth star unselected" - (757,2328,955,2472)
+11. ImageView: "com.android.vending:id/0_resource_name_obfuscated", "Fifth star unselected" - (955,2328,1102,2472)
+12. ViewGroup: "com.android.vending:id/0_resource_name_obfuscated", "com.android.vending:id/0_resource_name_obfuscated" - (48,2544,1232,2688)
+13. Button: "com.android.vending:id/0_resource_name_obfuscated", "Not now" - (48,2556,622,2676)
+14. Button: "com.android.vending:id/0_resource_name_obfuscated", "Submit" - (658,2556,1232,2676)
+
+Phone state: {'currentApp': 'Google Play Store', 'packageName': 'com.android.vending', 'activityName': 'com.google.android.finsky.inappreviewdialog.InAppReviewActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

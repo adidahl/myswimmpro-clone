@@ -1,0 +1,34 @@
+**Current Phone State:**
+• **App:** Photos & videos (com.google.android.photopicker)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ComposeView: "androidx.compose.ui.platform.ComposeView" - (0,0,1280,2856)
+3. View: "android.view.View" - (0,0,1280,2856)
+4. View: "android.view.View" - (0,156,1280,2856)
+5. View: "android.view.View" - (0,714,1280,2856)
+6. View: "android.view.View" - (0,714,1280,2856)
+7. View: "android.view.View" - (568,714,712,858)
+8. View: "Drag handle" - (592,780,688,792)
+9. View: "android.view.View" - (36,858,1100,1074)
+10. EditText: "android.widget.EditText" - (60,882,1076,1050)
+11. View: "Search" - (60,882,1076,1050)
+12. View: "Search disabled." - (108,930,180,1002)
+13. View: "android.view.View" - (216,894,1028,1038)
+14. TextView: "Search" - (216,938,1028,995)
+15. View: "android.view.View" - (1100,894,1244,1038)
+16. View: "More" - (1136,930,1208,1002)
+17. Button: "android.widget.Button" - (1112,906,1232,1026)
+18. View: "android.view.View" - (36,1098,1244,1242)
+19. View: "Photos" - (36,1098,628,1242)
+20. View: "Collections" - (652,1098,1244,1242)
+21. View: "android.view.View" - (0,1314,1280,2856)
+22. View: "Media grid" - (0,1314,1280,2856)
+23. View: "android.view.View" - (556,1885,724,2053)
+24. TextView: "No photos yet" - (436,2101,845,2178)
+25. TextView: "Start capturing photos and videos" - (325,2202,956,2251)
+
+Phone state: {'currentApp': 'Photos & videos', 'packageName': 'com.google.android.photopicker', 'activityName': 'com.android.photopicker.MainActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

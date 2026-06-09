@@ -1,0 +1,39 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,156,1280,2784)
+2. ViewGroup: "com.myswimpro.android.app:id/coordinator", "com.myswimpro.android.app:id/coordinator" - (0,156,1280,2784)
+3. FrameLayout: "com.myswimpro.android.app:id/design_bottom_sheet", "com.myswimpro.android.app:id/design_bottom_sheet" - (0,156,1280,2784)
+4. ScrollView: "com.myswimpro.android.app:id/svContent", "com.myswimpro.android.app:id/svContent" - (48,204,1232,2543)
+5. TextView: "com.myswimpro.android.app:id/tvDistance", "Distance" - (48,228,305,316)
+6. SeekBar: "com.myswimpro.android.app:id/distanceBar", "com.myswimpro.android.app:id/distanceBar" - (48,352,1232,496)
+7. SeekBar: "Range start, 0" - (48,352,168,496)
+8. SeekBar: "Range end, 10000" - (1112,352,1232,496)
+9. TextView: "com.myswimpro.android.app:id/tvMinDistance", "0 meters" - (48,520,260,593)
+10. TextView: "com.myswimpro.android.app:id/tvMaxDistance", "10000 + meters" - (856,520,1232,593)
+11. TextView: "com.myswimpro.android.app:id/tvDuration", "Duration" - (48,665,296,753)
+12. SeekBar: "com.myswimpro.android.app:id/durationBar", "com.myswimpro.android.app:id/durationBar" - (48,789,1232,933)
+13. SeekBar: "Range start, 0" - (48,789,168,933)
+14. SeekBar: "Range end, 100" - (1112,789,1232,933)
+15. TextView: "com.myswimpro.android.app:id/tvMinDuration", "0 min." - (48,957,195,1030)
+16. TextView: "com.myswimpro.android.app:id/tvMaxDuration", "100 + min." - (981,957,1232,1030)
+17. TextView: "com.myswimpro.android.app:id/tvSkillLevel", "Skill Level" - (48,1102,338,1190)
+18. CheckBox: "com.myswimpro.android.app:id/cbNovice", "Level 1" ; isChecked=True - (48,1214,313,1310)
+19. CheckBox: "com.myswimpro.android.app:id/cbBeginner", "Level 2" ; isChecked=False - (48,1334,313,1430)
+20. CheckBox: "com.myswimpro.android.app:id/cbIntermediate", "Level 3" ; isChecked=False - (48,1454,313,1550)
+21. CheckBox: "com.myswimpro.android.app:id/cbAdvanced", "Level 4" ; isChecked=False - (48,1574,313,1670)
+22. CheckBox: "com.myswimpro.android.app:id/cbPro", "Level 5" ; isChecked=False - (48,1694,313,1790)
+23. TextView: "com.myswimpro.android.app:id/tvWorkoutType", "Workout Type" - (48,1862,451,1950)
+24. CheckBox: "com.myswimpro.android.app:id/cbFree", "Freestyle" ; isChecked=True - (48,1974,363,2070)
+25. CheckBox: "com.myswimpro.android.app:id/cbDistance", "Distance" ; isChecked=False - (48,2094,354,2190)
+26. CheckBox: "com.myswimpro.android.app:id/cbSprint", "Sprint" ; isChecked=False - (48,2214,285,2310)
+27. CheckBox: "com.myswimpro.android.app:id/cbKick", "Kick" ; isChecked=False - (48,2334,247,2430)
+28. CheckBox: "com.myswimpro.android.app:id/cbIM", "Individual Medley" ; isChecked=False - (48,2454,560,2543)
+29. RelativeLayout: "com.myswimpro.android.app:id/buttonApply", "com.myswimpro.android.app:id/buttonApply" - (60,2567,1220,2736)
+30. TextView: "com.myswimpro.android.app:id/tvApply", "Apply" - (571,2615,709,2688)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.google.android.material.bottomsheet.BottomSheetDialog', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

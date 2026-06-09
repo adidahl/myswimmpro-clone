@@ -1,0 +1,15 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ScrollView: "android.widget.ScrollView" - (0,156,1280,2784)
+3. FrameLayout: "com.myswimpro.android.app:id/collapse_toolbar", "4-Week Speed Development Plan" - (0,156,1280,906)
+4. ImageButton: "Navigate up" - (0,156,168,324)
+5. ImageButton: "More options" - (1160,168,1280,312)
+6. RecyclerView: "com.myswimpro.android.app:id/recyclerView", "com.myswimpro.android.app:id/recyclerView" - (0,906,1280,2784)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.activity.TrainingPlanActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

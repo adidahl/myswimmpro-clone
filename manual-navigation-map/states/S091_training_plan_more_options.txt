@@ -1,0 +1,15 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (680,168,1268,456)
+2. ListView: "android.widget.ListView" - (680,168,1268,456)
+3. LinearLayout: "android.widget.LinearLayout" - (680,168,1268,312)
+4. TextView: "android:id/title", "Create New Plan" - (728,207,1220,272)
+5. LinearLayout: "android.widget.LinearLayout" - (680,312,1268,456)
+6. TextView: "android:id/title", "Cancel Plan" - (728,351,1220,416)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.activity.TrainingPlanActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'className': 'android.widget.ListView', 'resourceId': ''}}

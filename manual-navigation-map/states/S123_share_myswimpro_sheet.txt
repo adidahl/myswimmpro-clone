@@ -1,0 +1,38 @@
+**Current Phone State:**
+• **App:** IntentResolver (com.android.intentresolver)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ScrollView: "android:id/contentPanel", "android:id/contentPanel" - (0,0,1280,2856)
+3. TextView: "com.android.intentresolver:id/headline", "Sharing text" - (48,1702,335,1775)
+4. ScrollView: "com.android.intentresolver:id/chooser_scrollable_container", "com.android.intentresolver:id/chooser_scrollable_container" - (0,1823,1280,2856)
+5. TextView: "android:id/content_preview_text", "Check out MySwimPro: Swimming workouts, training plans, technique videos, and more! https://play.google.com/store/apps/details?id=com.myswimpro.android.app" - (72,1847,1064,2051)
+6. FrameLayout: "com.android.intentresolver:id/copy", "Copy text" - (1076,1877,1220,2021)
+7. TabHost: "android:id/profile_tabhost", "android:id/profile_tabhost" - (0,2156,1280,2856)
+8. ViewPager: "android:id/profile_pager", "android:id/profile_pager" - (0,2156,1280,2856)
+9. GridView: "android:id/resolver_list", "android:id/resolver_list" - (0,2156,1280,2856)
+10. LinearLayout: "com.android.intentresolver:id/shortcuts_container", "com.android.intentresolver:id/shortcuts_container" - (0,2156,1280,2470)
+11. TextView: "android:id/chooser_row_text_option", "No recommended people to share with" - (0,2284,1280,2341)
+12. LinearLayout: "com.android.intentresolver:id/suggested_apps_container", "com.android.intentresolver:id/suggested_apps_container" - (0,2470,1280,2784)
+13. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (0,2470,256,2784)
+14. TextView: "android:id/text1", "Quick Share" - (12,2683,244,2732)
+15. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (256,2470,512,2784)
+16. TextView: "android:id/text1", "Messages" - (268,2683,500,2732)
+17. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (512,2470,768,2784)
+18. TextView: "android:id/text1", "Gmail" - (524,2683,756,2732)
+19. TextView: "android:id/text2", "Chat" - (524,2732,756,2781)
+20. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (768,2470,1024,2784)
+21. TextView: "android:id/text1", "Drive" - (780,2683,1012,2732)
+22. TextView: "android:id/text2", "Copy to clipboard" - (780,2732,1012,2781)
+23. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (1024,2470,1280,2784)
+24. TextView: "android:id/text1", "Chrome" - (1036,2683,1268,2732)
+25. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (0,2838,256,2856)
+26. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (256,2838,512,2856)
+27. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (512,2838,768,2856)
+28. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (768,2838,1024,2856)
+29. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (1024,2838,1280,2856)
+
+Phone state: {'currentApp': 'IntentResolver', 'packageName': 'com.android.intentresolver', 'activityName': 'com.android.intentresolver.ChooserActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

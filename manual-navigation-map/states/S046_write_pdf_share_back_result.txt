@@ -1,0 +1,14 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ImageButton: "Navigate up" - (0,156,168,324)
+3. TextView: "Workout PDF" - (216,199,574,280)
+4. Button: "com.myswimpro.android.app:id/action_share", "Share" - (1136,168,1280,312)
+5. RelativeLayout: "com.myswimpro.android.app:id/pdfView", "com.myswimpro.android.app:id/pdfView" - (0,324,1280,2784)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.activity.PdfActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

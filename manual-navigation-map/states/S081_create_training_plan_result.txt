@@ -1,0 +1,40 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ComposeView: "androidx.compose.ui.platform.ComposeView" - (0,0,1280,2856)
+3. View: "android.view.View" - (0,0,1280,2856)
+4. View: "android.view.View" - (0,0,1280,2856)
+5. View: "android.view.View" - (0,0,1280,2856)
+6. View: "android.view.View" - (0,180,1280,336)
+7. TextView: "Generate Plan" - (460,216,820,288)
+8. View: "android.view.View" - (1124,180,1268,294)
+9. View: "Close" - (1160,216,1232,288)
+10. Button: "android.widget.Button" - (1160,216,1232,288)
+11. ProgressBar: "android.widget.ProgressBar" - (0,294,1280,366)
+12. View: "android.view.View" - (0,336,1280,2472)
+13. TextView: "What are your swimming goals?" - (72,504,1208,590)
+14. View: "android.view.View" - (72,686,1208,2078)
+15. View: "android.view.View" - (72,686,1208,854)
+16. TextView: "Enhance Speed" - (120,734,471,806)
+17. View: "android.view.View" - (72,890,1208,1058)
+18. TextView: "Improve Endurance" - (120,938,561,1010)
+19. View: "android.view.View" - (72,1094,1208,1262)
+20. TextView: "Improve Technique" - (120,1142,557,1214)
+21. View: "android.view.View" - (72,1298,1208,1466)
+22. TextView: "Lose Weight" - (120,1346,402,1418)
+23. View: "android.view.View" - (72,1502,1208,1670)
+24. TextView: "Individual Medley Training" - (120,1550,722,1622)
+25. View: "android.view.View" - (72,1706,1208,1874)
+26. TextView: "Open Water Racing" - (120,1754,556,1826)
+27. View: "android.view.View" - (72,1910,1208,2078)
+28. TextView: "Learn the strokes" - (120,1958,520,2030)
+29. View: "android.view.View" - (72,2544,1208,2712)
+30. TextView: "Next" - (584,2599,697,2657)
+31. Button: "android.widget.Button" - (72,2544,1208,2712)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.generateplan.GeneratePlanActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

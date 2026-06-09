@@ -1,0 +1,41 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. View: "com.myswimpro.android.app:id/overlay", "com.myswimpro.android.app:id/overlay" - (0,156,1280,2784)
+3. ImageButton: "Navigate up" - (0,156,168,324)
+4. TextView: "Custom Workout" - (216,199,675,280)
+5. ImageView: "More options" - (1160,168,1280,312)
+6. TextView: "com.myswimpro.android.app:id/tvDistance", "0" - (560,528,597,616)
+7. TextView: "com.myswimpro.android.app:id/tvDistanceLabel", "m" - (609,528,667,616)
+8. TextView: "com.myswimpro.android.app:id/tvTime", "0" - (560,616,597,704)
+9. TextView: "com.myswimpro.android.app:id/tvTimeLabel", "min" - (609,616,719,704)
+10. TextView: "com.myswimpro.android.app:id/tvCalories", "0" - (560,704,597,792)
+11. TextView: "com.myswimpro.android.app:id/tvCalLabel", "cal" - (609,704,696,792)
+12. ImageView: "com.myswimpro.android.app:id/ivInfo", "com.myswimpro.android.app:id/ivInfo" - (84,384,156,456)
+13. RecyclerView: "com.myswimpro.android.app:id/rvPool", "com.myswimpro.android.app:id/rvPool" - (1036,744,1196,831)
+14. ViewGroup: "android.view.ViewGroup" - (1036,744,1196,831)
+15. TextView: "com.myswimpro.android.app:id/tvPoolLength", "25.0 m" - (1051,759,1181,816)
+16. ImageView: "com.myswimpro.android.app:id/ivAddPoolLength", "com.myswimpro.android.app:id/ivAddPoolLength" - (1064,831,1169,921)
+17. SeekBar: "com.myswimpro.android.app:id/seekBar", "com.myswimpro.android.app:id/seekBar" - (84,936,1196,1026)
+18. RecyclerView: "com.myswimpro.android.app:id/recyclerView", "com.myswimpro.android.app:id/recyclerView" - (0,1074,1280,1458)
+19. RelativeLayout: "android.widget.RelativeLayout" - (12,1086,1268,1278)
+20. TextView: "com.myswimpro.android.app:id/tvTitle", "WARM UP" - (60,1170,254,1227)
+21. TextView: "com.myswimpro.android.app:id/tvReps", "(Repeat 1X)" - (302,1178,491,1227)
+22. ImageView: "com.myswimpro.android.app:id/ivMoreSet", "com.myswimpro.android.app:id/ivMoreSet" - (1114,1133,1219,1242)
+23. TextView: "com.myswimpro.android.app:id/splash_mode_action_text", "Start on this phone" - (679,1656,1040,1824)
+24. FloatingActionButton: "com.myswimpro.android.app:id/splash_mode_fab", "com.myswimpro.android.app:id/splash_mode_fab" - (1064,1656,1232,1824)
+25. TextView: "com.myswimpro.android.app:id/manual_log_action_text", "Manual Log" - (819,1872,1040,2040)
+26. FloatingActionButton: "com.myswimpro.android.app:id/manual_log_fab", "com.myswimpro.android.app:id/manual_log_fab" - (1064,1872,1232,2040)
+27. TextView: "com.myswimpro.android.app:id/send_to_watch_action_text", "Send To Watch" - (758,2088,1040,2256)
+28. FloatingActionButton: "com.myswimpro.android.app:id/send_to_watch_fab", "Send To Watch" - (1064,2088,1232,2256)
+29. TextView: "com.myswimpro.android.app:id/open_pdf_action_text", "Open PDF" - (853,2304,1040,2472)
+30. FloatingActionButton: "com.myswimpro.android.app:id/open_pdf_fab", "com.myswimpro.android.app:id/open_pdf_fab" - (1064,2304,1232,2472)
+31. FloatingActionButton: "com.myswimpro.android.app:id/fabCoachChat", "Coach Chat" - (48,2568,216,2736)
+32. Button: "com.myswimpro.android.app:id/fab", "START YOUR WORKOUT" - (1064,2568,1232,2736)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.workout.WorkoutActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

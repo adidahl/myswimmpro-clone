@@ -1,0 +1,14 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (32,1186,1248,1753)
+2. TextView: "com.myswimpro.android.app:id/alertTitle", "Import Workout" - (152,1288,1128,1369)
+3. ListView: "com.myswimpro.android.app:id/select_dialog_listview", "com.myswimpro.android.app:id/select_dialog_listview" - (80,1393,1200,1705)
+4. TextView: "android:id/text1", "Import from Photo Library" - (80,1393,1200,1537)
+5. TextView: "android:id/text1", "Import from Camera" - (80,1537,1200,1681)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'androidx.appcompat.app.AlertDialog', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

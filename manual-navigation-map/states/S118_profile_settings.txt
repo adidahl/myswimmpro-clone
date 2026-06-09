@@ -1,0 +1,33 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ImageButton: "Navigate up" - (0,156,168,324)
+3. TextView: "Settings" - (216,199,443,280)
+4. RecyclerView: "com.myswimpro.android.app:id/rv_settings", "com.myswimpro.android.app:id/rv_settings" - (0,324,1280,2784)
+5. ViewGroup: "android.view.ViewGroup" - (0,324,1280,503)
+6. TextView: "com.myswimpro.android.app:id/tvTitle", "Account Settings" - (54,381,425,446)
+7. ViewGroup: "android.view.ViewGroup" - (0,503,1280,682)
+8. TextView: "com.myswimpro.android.app:id/tvTitle", "Devices & Integrations" - (54,560,541,625)
+9. ViewGroup: "android.view.ViewGroup" - (0,682,1280,861)
+10. TextView: "com.myswimpro.android.app:id/tvTitle", "Share MySwimPro" - (54,739,454,804)
+11. ViewGroup: "android.view.ViewGroup" - (0,861,1280,1040)
+12. TextView: "com.myswimpro.android.app:id/tvTitle", "Support & Ask a Question" - (54,918,611,983)
+13. ViewGroup: "android.view.ViewGroup" - (0,1040,1280,1219)
+14. TextView: "com.myswimpro.android.app:id/tvTitle", "Send Logs" - (54,1097,281,1162)
+15. ViewGroup: "android.view.ViewGroup" - (0,1219,1280,1398)
+16. TextView: "com.myswimpro.android.app:id/tvTitle", "Write a Review" - (54,1276,374,1341)
+17. ViewGroup: "android.view.ViewGroup" - (0,1398,1280,1577)
+18. TextView: "com.myswimpro.android.app:id/tvTitle", "Privacy" - (54,1455,216,1520)
+19. ViewGroup: "android.view.ViewGroup" - (0,1577,1280,1756)
+20. TextView: "com.myswimpro.android.app:id/tvTitle", "Terms of Use" - (54,1634,344,1699)
+21. ViewGroup: "android.view.ViewGroup" - (0,1756,1280,2128)
+22. TextView: "com.myswimpro.android.app:id/tvAppName", "MySwimPro" - (544,1921,737,1970)
+23. TextView: "com.myswimpro.android.app:id/tvAppVersion", "Version 7.8.277 (b7894afc)" - (422,1970,859,2019)
+24. TextView: "com.myswimpro.android.app:id/tvMembershipType", "MySwimPro Coach" - (488,2019,793,2068)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.settings.SettingsActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

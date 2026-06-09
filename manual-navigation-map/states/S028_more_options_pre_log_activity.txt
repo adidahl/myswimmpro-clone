@@ -1,0 +1,23 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (680,169,1268,1081)
+2. ListView: "android.widget.ListView" - (680,193,1268,1057)
+3. LinearLayout: "android.widget.LinearLayout" - (680,193,1268,337)
+4. TextView: "com.myswimpro.android.app:id/title", "Start on this phone" - (728,232,1220,297)
+5. LinearLayout: "android.widget.LinearLayout" - (680,337,1268,481)
+6. TextView: "com.myswimpro.android.app:id/title", "Save to My Library" - (728,376,1220,441)
+7. LinearLayout: "android.widget.LinearLayout" - (680,481,1268,625)
+8. TextView: "com.myswimpro.android.app:id/title", "Open PDF" - (728,520,1220,585)
+9. LinearLayout: "android.widget.LinearLayout" - (680,625,1268,769)
+10. TextView: "com.myswimpro.android.app:id/title", "Log this Activity" - (728,664,1220,729)
+11. LinearLayout: "android.widget.LinearLayout" - (680,769,1268,913)
+12. TextView: "com.myswimpro.android.app:id/title", "Send To Watch" - (728,808,1220,873)
+13. LinearLayout: "android.widget.LinearLayout" - (680,913,1268,1057)
+14. TextView: "com.myswimpro.android.app:id/title", "Reset to original" - (728,952,1220,1017)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.workout.WorkoutActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

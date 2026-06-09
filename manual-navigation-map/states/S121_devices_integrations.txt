@@ -1,0 +1,22 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ImageButton: "Navigate up" - (0,156,168,324)
+3. TextView: "Devices & Integrations" - (216,199,831,280)
+4. TextView: "com.myswimpro.android.app:id/tv_title", "Strava Sync" - (54,378,311,443)
+5. Switch: "com.myswimpro.android.app:id/sw", "com.myswimpro.android.app:id/sw" ; isChecked=False - (1086,378,1226,459)
+6. TextView: "com.myswimpro.android.app:id/tv_title", "Garmin Sync" - (54,567,331,632)
+7. Switch: "com.myswimpro.android.app:id/sw", "com.myswimpro.android.app:id/sw" ; isChecked=False - (1086,567,1226,648)
+8. TextView: "com.myswimpro.android.app:id/tv_title", "Health Connect" - (54,756,387,821)
+9. Switch: "com.myswimpro.android.app:id/sw", "com.myswimpro.android.app:id/sw" ; isChecked=False - (1086,756,1226,837)
+10. TextView: "com.myswimpro.android.app:id/tv_title", "TrainingPeaks Sync" - (54,945,485,1010)
+11. Switch: "com.myswimpro.android.app:id/sw", "com.myswimpro.android.app:id/sw" ; isChecked=False - (1086,945,1226,1026)
+12. ViewGroup: "com.myswimpro.android.app:id/tv_authcode", "com.myswimpro.android.app:id/tv_authcode" - (0,1080,1280,1256)
+13. TextView: "com.myswimpro.android.app:id/tv_title", "Enter Authorization Code" - (54,1134,596,1199)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.activity.settings.DevicesAndIntegrationsActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

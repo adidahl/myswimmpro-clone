@@ -1,0 +1,29 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ScrollView: "android.widget.ScrollView" - (0,156,1280,2784)
+3. FrameLayout: "com.myswimpro.android.app:id/collapse_toolbar", "4-Week Speed Development Plan" - (0,156,1280,906)
+4. ImageButton: "Navigate up" - (0,156,168,324)
+5. ImageButton: "More options" - (1160,168,1280,312)
+6. RecyclerView: "com.myswimpro.android.app:id/recyclerView", "com.myswimpro.android.app:id/recyclerView" - (0,906,1280,2784)
+7. RelativeLayout: "android.widget.RelativeLayout" - (0,954,1280,1427)
+8. TextView: "com.myswimpro.android.app:id/tvTitle", "This plan is designed to sharpen your speed over 4 weeks, starting with a test set to establish your current fitness baseline. Each week you will push your pace with targeted speed work, helping you develop explosive power, faster turnover, and the ability to hold speed under fatigue. We will keep the volume around your current level of 1500 meters per session so that the quality of each workout stays high. Trust the process, attack each set with intention, and you will see real gains by the end of week four." - (24,978,1256,1427)
+9. RelativeLayout: "android.widget.RelativeLayout" - (0,1427,1280,1637)
+10. TextView: "com.myswimpro.android.app:id/tvTitle", "Weekly Volume" - (24,1451,315,1508)
+11. TextView: "com.myswimpro.android.app:id/tvDescription", "com.myswimpro.android.app:id/tvDescription" - (36,1508,60,1637)
+12. RelativeLayout: "android.widget.RelativeLayout" - (0,1637,1280,2237)
+13. RelativeLayout: "android.widget.RelativeLayout" - (0,2237,1280,2318)
+14. TextView: "com.myswimpro.android.app:id/tvTitle", "Week 1" - (24,2261,163,2318)
+15. ViewGroup: "com.myswimpro.android.app:id/swipeRevealLayout", "com.myswimpro.android.app:id/swipeRevealLayout" - (0,2318,1280,2784)
+16. RelativeLayout: "com.myswimpro.android.app:id/rlContent", "com.myswimpro.android.app:id/rlContent" - (0,2318,1280,2539)
+17. TextView: "com.myswimpro.android.app:id/tvTitleVertical", "Need for Speed" - (48,2371,336,2428)
+18. TextView: "com.myswimpro.android.app:id/tvDistanceVertical", "1000 meters" - (48,2428,1022,2485)
+19. Button: "com.myswimpro.android.app:id/buttonStart", "START" - (1082,2366,1232,2491)
+20. TextView: "com.myswimpro.android.app:id/tvComments", "Establish your current speed benchmarks across short and middle distances. Swim with maximal effort on the test pieces so we have accurate data to measure your progress at the end of the plan. Focus on honest effort and note how your stroke feels at race pace." - (48,2539,1220,2784)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.activity.TrainingPlanActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

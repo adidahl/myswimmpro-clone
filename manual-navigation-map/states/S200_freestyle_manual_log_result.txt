@@ -1,0 +1,31 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. RelativeLayout: "android.widget.RelativeLayout" - (0,156,1280,2784)
+3. ImageButton: "Navigate up" - (0,156,168,324)
+4. TextView: "Log Workout" - (216,199,564,280)
+5. ScrollView: "android.widget.ScrollView" - (0,324,1280,2784)
+6. RelativeLayout: "com.myswimpro.android.app:id/rlImageSelector", "com.myswimpro.android.app:id/rlImageSelector" - (16,346,1264,946)
+7. TextView: "Choose Image" - (559,809,828,866)
+8. TextView: "com.myswimpro.android.app:id/tvDistance", "600" - (289,958,379,1031)
+9. TextView: "com.myswimpro.android.app:id/tvDistanceLabel", "meters" - (249,1031,418,1104)
+10. TextView: "com.myswimpro.android.app:id/tvTimeOverview", "21" - (916,958,976,1031)
+11. TextView: "com.myswimpro.android.app:id/tvTimeLabel", "minutes" - (848,1031,1043,1104)
+12. TextView: "com.myswimpro.android.app:id/tvDetailsLabel", "Details" - (16,1160,231,1281)
+13. TextView: "Workout Title" - (28,1293,324,1398)
+14. TextView: "com.myswimpro.android.app:id/tvWorkoutTitle", "1/8 Mile Swim" - (864,1293,1180,1398)
+15. ImageView: "com.myswimpro.android.app:id/ivEditTitle", "com.myswimpro.android.app:id/ivEditTitle" - (1180,1309,1252,1381)
+16. TextView: "Date" - (28,1422,163,1527)
+17. TextView: "com.myswimpro.android.app:id/tvDate", "08 Jun 2026" - (899,1422,1180,1527)
+18. ImageView: "com.myswimpro.android.app:id/ivEditDate", "com.myswimpro.android.app:id/ivEditDate" - (1180,1438,1252,1510)
+19. TextView: "com.myswimpro.android.app:id/tvCommentsLabel", "Notes" - (16,1627,207,1748)
+20. TextView: "com.myswimpro.android.app:id/tvWorkoutComments", "com.myswimpro.android.app:id/tvWorkoutComments" - (40,1772,88,1877)
+21. ImageView: "com.myswimpro.android.app:id/ivEditComments", "com.myswimpro.android.app:id/ivEditComments" - (1168,1748,1264,1844)
+22. Button: "com.myswimpro.android.app:id/buttonBottom", "Save" - (36,2568,1244,2748)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.activity.LogWorkoutActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

@@ -1,0 +1,25 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,2856,1280)
+2. ComposeView: "androidx.compose.ui.platform.ComposeView" - (0,0,2856,1280)
+3. View: "android.view.View" - (0,0,2856,1280)
+4. View: "android.view.View" - (0,0,2856,1280)
+5. View: "android.view.View" - (0,0,2856,1280)
+6. View: "android.view.View" - (198,139,342,283)
+7. TextView: "Up Next" - (228,326,536,426)
+8. TextView: "0:02" - (228,450,450,576)
+9. View: "android.view.View" - (798,350,942,1112)
+10. View: "android.view.View" - (2664,144,2808,288)
+11. View: "android.view.View" - (0,0,2856,1280)
+12. View: "android.view.View" - (0,0,2856,1280)
+13. View: "android.view.View" - (198,139,342,283)
+14. TextView: "MySwimPro" - (336,168,738,254)
+15. TextView: "3" - (1333,330,1679,1034)
+16. TextView: "READY" - (2149,910,2760,1136)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.splashmode.SplashModeActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

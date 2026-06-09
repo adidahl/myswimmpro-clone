@@ -1,0 +1,15 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (32,1163,1248,1776)
+2. TextView: "com.myswimpro.android.app:id/tv_add_to_library", "Add to Library" - (80,1187,1200,1305)
+3. TextView: "com.myswimpro.android.app:id/tv_enter_a_workout_title", "Enter a workout title." - (80,1320,1200,1423)
+4. EditText: "com.myswimpro.android.app:id/et_workOut_title", "Custom Workout" - (95,1453,1185,1589)
+5. TextView: "com.myswimpro.android.app:id/tv_cancel", "Cancel" - (843,1619,1008,1692)
+6. TextView: "com.myswimpro.android.app:id/tv_ok", "OK" - (1068,1619,1140,1692)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.workout.WorkoutActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

@@ -1,0 +1,19 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ImageButton: "Navigate up" - (0,156,168,324)
+3. TextView: "Saved Workouts" - (216,199,661,280)
+4. RecyclerView: "com.myswimpro.android.app:id/rvSavedWorkouts", "com.myswimpro.android.app:id/rvSavedWorkouts" - (0,324,1280,666)
+5. RelativeLayout: "android.widget.RelativeLayout" - (12,336,1268,654)
+6. TextView: "com.myswimpro.android.app:id/tvTitle", "Full Spectrum Splash" - (264,373,777,446)
+7. TextView: "com.myswimpro.android.app:id/tvDistance", "1050 meters" - (360,458,668,531)
+8. TextView: "com.myswimpro.android.app:id/tvTime", "37 minutes" - (812,458,1083,531)
+9. TextView: "com.myswimpro.android.app:id/tvSubTitle", ", Beginner" - (264,543,501,616)
+10. ImageView: "com.myswimpro.android.app:id/ivMore", "com.myswimpro.android.app:id/ivMore" - (1160,459,1232,531)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.activity.SavedWorkoutsActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

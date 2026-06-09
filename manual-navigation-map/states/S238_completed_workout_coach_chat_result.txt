@@ -1,0 +1,30 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ComposeView: "androidx.compose.ui.platform.ComposeView" - (0,0,1280,2856)
+3. View: "android.view.View" - (0,0,1280,2856)
+4. View: "android.view.View" - (0,0,1280,2856)
+5. View: "android.view.View" - (48,348,1232,2568)
+6. TextView: "Coach can see and modify this workout." - (296,396,1045,468)
+7. View: "android.view.View" - (0,0,1280,348)
+8. View: "android.view.View" - (0,156,1280,348)
+9. View: "android.view.View" - (12,180,156,324)
+10. View: "Close" - (48,216,120,288)
+11. Button: "android.widget.Button" - (24,192,144,312)
+12. View: "android.view.View" - (168,180,509,324)
+13. TextView: "Coach Chat" - (168,210,509,294)
+14. View: "android.view.View" - (36,2592,1244,2760)
+15. EditText: "android.widget.EditText" - (36,2592,1088,2760)
+16. View: "android.view.View" - (84,2604,1040,2748)
+17. View: "android.view.View" - (84,2604,289,2748)
+18. TextView: "Message" - (84,2640,289,2712)
+19. View: "android.view.View" - (1106,2622,1250,2766)
+20. View: "Send" - (1142,2658,1214,2730)
+21. Button: "android.widget.Button" - (1112,2628,1244,2760)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.coachchat.CoachChatActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

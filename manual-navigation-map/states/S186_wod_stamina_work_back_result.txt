@@ -1,0 +1,37 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ImageButton: "Navigate up" - (0,156,168,324)
+3. TextView: "Workout of the Day" - (216,199,726,280)
+4. RecyclerView: "com.myswimpro.android.app:id/rvWods", "com.myswimpro.android.app:id/rvWods" - (0,324,1280,2784)
+5. RelativeLayout: "android.widget.RelativeLayout" - (12,336,1268,496)
+6. TextView: "com.myswimpro.android.app:id/tvTitle", "Jun 08" - (60,408,1220,496)
+7. FrameLayout: "android.widget.FrameLayout" - (12,496,1268,1168)
+8. TextView: "com.myswimpro.android.app:id/tvDistance", "500" - (1118,568,1208,641)
+9. TextView: "com.myswimpro.android.app:id/tvDistanceUnits", "meters" - (1077,641,1208,698)
+10. TextView: "com.myswimpro.android.app:id/tvMinutes", "20" - (1148,734,1208,807)
+11. TextView: "com.myswimpro.android.app:id/tvMinutesLabel", "minutes" - (1057,807,1208,864)
+12. TextView: "com.myswimpro.android.app:id/tvHeader", "Mixed Medley Challenge" - (72,1008,798,1096)
+13. RelativeLayout: "android.widget.RelativeLayout" - (12,1168,1268,1328)
+14. TextView: "com.myswimpro.android.app:id/tvTitle", "Jun 07" - (60,1240,1220,1328)
+15. FrameLayout: "android.widget.FrameLayout" - (12,1328,1268,2000)
+16. TextView: "com.myswimpro.android.app:id/tvDistance", "650" - (1118,1400,1208,1473)
+17. TextView: "com.myswimpro.android.app:id/tvDistanceUnits", "meters" - (1077,1473,1208,1530)
+18. TextView: "com.myswimpro.android.app:id/tvMinutes", "41" - (1148,1566,1208,1639)
+19. TextView: "com.myswimpro.android.app:id/tvMinutesLabel", "minutes" - (1057,1639,1208,1696)
+20. TextView: "com.myswimpro.android.app:id/tvHeader", "Recovery Day " - (72,1840,490,1928)
+21. RelativeLayout: "android.widget.RelativeLayout" - (12,2000,1268,2160)
+22. TextView: "com.myswimpro.android.app:id/tvTitle", "Jun 06" - (60,2072,1220,2160)
+23. FrameLayout: "android.widget.FrameLayout" - (12,2160,1268,2784)
+24. TextView: "com.myswimpro.android.app:id/tvDistance", "600" - (1118,2232,1208,2305)
+25. TextView: "com.myswimpro.android.app:id/tvDistanceUnits", "meters" - (1077,2305,1208,2362)
+26. TextView: "com.myswimpro.android.app:id/tvMinutes", "52" - (1148,2398,1208,2471)
+27. TextView: "com.myswimpro.android.app:id/tvMinutesLabel", "minutes" - (1057,2471,1208,2528)
+28. TextView: "com.myswimpro.android.app:id/tvHeader", "Stamina Work" - (72,2672,486,2760)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.activity.WodListActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

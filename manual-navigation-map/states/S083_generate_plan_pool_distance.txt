@@ -1,0 +1,34 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ComposeView: "androidx.compose.ui.platform.ComposeView" - (0,0,1280,2856)
+3. View: "android.view.View" - (0,0,1280,2856)
+4. View: "android.view.View" - (0,0,1280,2856)
+5. View: "android.view.View" - (0,0,1280,2856)
+6. View: "android.view.View" - (0,180,1280,336)
+7. View: "android.view.View" - (12,180,156,294)
+8. View: "Back" - (48,216,120,288)
+9. Button: "android.widget.Button" - (48,216,120,288)
+10. TextView: "Generate Plan" - (460,216,820,288)
+11. View: "android.view.View" - (1124,180,1268,294)
+12. View: "Close" - (1160,216,1232,288)
+13. Button: "android.widget.Button" - (1160,216,1232,288)
+14. ProgressBar: "android.widget.ProgressBar" - (0,294,1280,366)
+15. View: "android.view.View" - (0,336,1280,2472)
+16. TextView: "How long would you like your plan to be?" - (72,504,1208,662)
+17. TextView: "4" - (585,806,696,1032)
+18. TextView: "Weeks" - (548,1032,733,1104)
+19. SeekBar: "android.widget.SeekBar" - (72,1248,1208,1392)
+20. View: "android.view.View" - (245,1248,389,1392)
+21. TextView: "2" - (72,1392,97,1464)
+22. TextView: "12" - (1157,1392,1208,1464)
+23. View: "android.view.View" - (72,2544,1208,2712)
+24. TextView: "Next" - (584,2599,697,2657)
+25. Button: "android.widget.Button" - (72,2544,1208,2712)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.generateplan.GeneratePlanActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

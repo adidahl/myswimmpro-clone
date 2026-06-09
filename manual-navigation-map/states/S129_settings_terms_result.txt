@@ -1,0 +1,35 @@
+**Current Phone State:**
+• **App:** Chrome (com.android.chrome)
+• **Keyboard:** Hidden
+• **Focused Element:** 'MySwimPro Terms of Use'
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. FrameLayout: "android.widget.FrameLayout" - (0,156,1280,2856)
+3. WebView: "MySwimPro Terms of Use" - (0,324,1280,2784)
+4. View: "android.view.View" - (0,324,1280,549)
+5. View: "w-node-f7e97e7c-9735-46f7-02c7-c6dd19503890-1950388f", "www.myswimpro" - (30,399,405,474)
+6. Button: "w-node-f7e97e7c-9735-46f7-02c7-c6dd195038a8-1950388f", "menu" - (1077,351,1251,522)
+7. View: "android.view.View" - (1092,381,1221,492)
+8. View: "android.view.View" - (1092,381,1221,492)
+9. Image: "android.widget.Image" - (1092,399,1221,465)
+10. View: "android.view.View" - (0,549,1280,1155)
+11. View: "android.view.View" - (0,549,1280,1155)
+12. TextView: "MySwimPro Privacy Policy" - (93,687,1188,987)
+13. View: "android.view.View" - (0,1155,1280,2784)
+14. TextView: "MySwimPro, Inc. (“MySwimPro,” “we,” “us,” or “our”) welcomes you. We invite you to access and use our online and mobile services (the “services”), which are made available to you through a variety of platforms, including myswimpro.com (the “Website”) and through our mobile app, which is available on the Google Play Store and Apple App Store and is accessible though tablets, cell phones, personal digital assistants, connected televisions, and other devices (the “App). The website and the App are collectively referred to as the “Platform.” We provide access to our Platform to Visitors and Registered Users subject to the following Terms of Use, which may be updated by us from time to time without notice to you. By browsing public areas or by accessing and using the Platform, you acknowledge that you have read, understood, and agree to be legally bound by the terms and conditions of these Terms of Use. If you do not agree to any of these terms, then please do not use the Platform." - (93,1218,1188,2784)
+15. View: "android.view.View" - (1074,2580,1221,2724)
+16. Button: "Open Intercom Messenger" - (1074,2580,1221,2724)
+17. ViewGroup: "com.android.chrome:id/toolbar_container", "com.android.chrome:id/toolbar_container" - (0,156,1280,327)
+18. FrameLayout: "com.android.chrome:id/toolbar", "com.android.chrome:id/toolbar" - (0,156,1280,324)
+19. ImageButton: "com.android.chrome:id/home_button", "Open the home page" - (0,156,144,324)
+20. ViewGroup: "com.android.chrome:id/location_bar", "com.android.chrome:id/location_bar" - (144,156,836,324)
+21. LinearLayout: "com.android.chrome:id/location_bar_status", "com.android.chrome:id/location_bar_status" - (144,156,240,324)
+22. ImageView: "com.android.chrome:id/location_bar_status_icon", "Connection is secure" - (156,204,228,276)
+23. EditText: "com.android.chrome:id/url_bar", "myswimpro.com/terms-of-use" - (240,156,836,324)
+24. ImageButton: "com.android.chrome:id/optional_toolbar_button", "New tab" - (836,156,992,324)
+25. ImageButton: "com.android.chrome:id/tab_switcher_button", "See 2 tabs" - (992,156,1136,324)
+26. ImageButton: "com.android.chrome:id/menu_button", "Update available. More options" - (1136,156,1280,324)
+
+Phone state: {'currentApp': 'Chrome', 'packageName': 'com.android.chrome', 'activityName': 'org.chromium.chrome.browser.ChromeTabbedActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'text': 'MySwimPro Terms of Use', 'className': 'android.webkit.WebView', 'resourceId': ''}}

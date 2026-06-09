@@ -1,0 +1,19 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** 'Splash Mode: Follow Swim Workouts on Your Phone from the Pool Deck | MySwimPro Support'
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ComposeView: "androidx.compose.ui.platform.ComposeView" - (0,0,1280,2856)
+3. View: "android.view.View" - (0,0,1280,2856)
+4. View: "android.view.View" - (0,156,1280,2856)
+5. ScrollView: "android.widget.ScrollView" - (0,327,1280,2784)
+6. ViewFactoryHolder: "androidx.compose.ui.viewinterop.ViewFactoryHolder" - (0,327,1280,2856)
+7. WebView: "android.webkit.WebView" - (0,327,1280,2856)
+8. WebView: "Splash Mode: Follow Swim Workouts on Your Phone from the Pool Deck | MySwimPro Support" - (0,327,1280,2856)
+9. View: "android.view.View" - (12,156,1268,324)
+10. Button: "android.widget.Button" - (12,168,156,312)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'io.intercom.android.sdk.helpcenter.articles.IntercomArticleActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'text': 'Splash Mode: Follow Swim Workouts on Your Phone from the Pool Deck | MySwimPro Support', 'className': 'android.webkit.WebView', 'resourceId': ''}}

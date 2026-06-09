@@ -1,0 +1,13 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (692,532,1280,724)
+2. ListView: "android.widget.ListView" - (692,556,1280,700)
+3. LinearLayout: "android.widget.LinearLayout" - (692,556,1280,700)
+4. TextView: "com.myswimpro.android.app:id/title", "Delete" - (740,595,1232,660)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.activity.SavedWorkoutsActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

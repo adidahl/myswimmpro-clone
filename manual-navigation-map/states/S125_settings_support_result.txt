@@ -1,0 +1,48 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ComposeView: "androidx.compose.ui.platform.ComposeView" - (0,0,1280,2856)
+3. View: "android.view.View" - (0,0,1280,2856)
+4. View: "android.view.View" - (0,0,1280,2856)
+5. View: "android.view.View" - (0,0,1280,2856)
+6. View: "android.view.View" - (0,0,1280,156)
+7. View: "android.view.View" - (0,0,1280,156)
+8. ScrollView: "android.widget.ScrollView" - (0,156,1280,2784)
+9. View: "android.view.View" - (0,156,1280,2784)
+10. View: "android.view.View" - (96,162,1088,306)
+11. TextView: "Hi there 🏊" - (96,426,519,525)
+12. TextView: "How can we help?" - (96,525,773,624)
+13. View: "android.view.View" - (48,720,1232,981)
+14. View: "android.view.View" - (48,713,1232,845)
+15. TextView: "Help" - (96,756,195,813)
+16. View: "android.view.View" - (1136,761,1184,809)
+17. View: "android.view.View" - (48,845,1232,989)
+18. TextView: "Messages" - (96,888,318,945)
+19. View: "android.view.View" - (1136,893,1184,941)
+20. View: "android.view.View" - (48,1011,1232,1323)
+21. ViewFactoryHolder: "androidx.compose.ui.viewinterop.ViewFactoryHolder" - (48,1011,1232,1323)
+22. WebView: "android.webkit.WebView" - (48,1011,1232,1323)
+23. View: "android.view.View" - (48,1353,1232,1665)
+24. ViewFactoryHolder: "androidx.compose.ui.viewinterop.ViewFactoryHolder" - (48,1353,1232,1665)
+25. WebView: "android.webkit.WebView" - (48,1353,1232,1665)
+26. View: "android.view.View" - (48,1695,1232,1935)
+27. ViewFactoryHolder: "androidx.compose.ui.viewinterop.ViewFactoryHolder" - (48,1695,1232,1935)
+28. WebView: "android.webkit.WebView" - (48,1695,1232,1935)
+29. View: "android.view.View" - (48,1965,1232,2253)
+30. ViewFactoryHolder: "androidx.compose.ui.viewinterop.ViewFactoryHolder" - (48,1965,1232,2253)
+31. WebView: "android.webkit.WebView" - (48,1965,1232,2253)
+32. View: "android.view.View" - (48,2283,1232,2595)
+33. ViewFactoryHolder: "androidx.compose.ui.viewinterop.ViewFactoryHolder" - (48,2283,1232,2595)
+34. WebView: "android.webkit.WebView" - (48,2283,1232,2595)
+35. View: "android.view.View" - (48,2625,1232,2784)
+36. ViewFactoryHolder: "androidx.compose.ui.viewinterop.ViewFactoryHolder" - (48,2625,1232,2856)
+37. WebView: "android.webkit.WebView" - (48,2625,1232,2856)
+38. View: "android.view.View" - (1115,171,1259,315)
+39. View: "Close" - (1151,207,1223,279)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'io.intercom.android.sdk.m5.IntercomRootActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

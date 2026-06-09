@@ -1,0 +1,35 @@
+**Current Phone State:**
+• **App:** IntentResolver (com.android.intentresolver)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ScrollView: "android:id/contentPanel", "android:id/contentPanel" - (0,0,1280,2856)
+3. TextView: "com.android.intentresolver:id/headline", "Sharing 1 file" - (48,1786,358,1859)
+4. ScrollView: "com.android.intentresolver:id/chooser_scrollable_container", "com.android.intentresolver:id/chooser_scrollable_container" - (0,1907,1280,2856)
+5. TextView: "com.android.intentresolver:id/content_preview_filename", "saved_pdf.pdf" - (216,1966,443,2015)
+6. TabHost: "android:id/profile_tabhost", "android:id/profile_tabhost" - (0,2156,1280,2856)
+7. ViewPager: "android:id/profile_pager", "android:id/profile_pager" - (0,2156,1280,2856)
+8. GridView: "android:id/resolver_list", "android:id/resolver_list" - (0,2156,1280,2856)
+9. LinearLayout: "com.android.intentresolver:id/shortcuts_container", "com.android.intentresolver:id/shortcuts_container" - (0,2156,1280,2470)
+10. TextView: "android:id/chooser_row_text_option", "No recommended people to share with" - (0,2284,1280,2341)
+11. LinearLayout: "com.android.intentresolver:id/suggested_apps_container", "com.android.intentresolver:id/suggested_apps_container" - (0,2470,1280,2784)
+12. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (0,2470,256,2784)
+13. TextView: "android:id/text1", "Quick Share" - (12,2683,244,2732)
+14. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (256,2470,512,2784)
+15. TextView: "android:id/text1", "Messages" - (268,2683,500,2732)
+16. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (512,2470,768,2784)
+17. TextView: "android:id/text1", "Gmail" - (524,2683,756,2732)
+18. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (768,2470,1024,2784)
+19. TextView: "android:id/text1", "Drive" - (780,2683,1012,2732)
+20. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (1024,2470,1280,2784)
+21. TextView: "android:id/text1", "Print" - (1036,2683,1268,2732)
+22. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (0,2838,256,2856)
+23. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (256,2838,512,2856)
+24. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (512,2838,768,2856)
+25. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (768,2838,1024,2856)
+26. LinearLayout: "com.android.intentresolver:id/item", "com.android.intentresolver:id/item" - (1024,2838,1280,2856)
+
+Phone state: {'currentApp': 'IntentResolver', 'packageName': 'com.android.intentresolver', 'activityName': 'com.android.intentresolver.ChooserActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

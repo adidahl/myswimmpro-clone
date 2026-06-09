@@ -1,0 +1,21 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,1056,1280,1800)
+2. ViewGroup: "android.view.ViewGroup" - (38,1086,1242,1755)
+3. Button: "com.myswimpro.android.app:id/buttonCancel", "CANCEL" - (38,1086,302,1230)
+4. TextView: "com.myswimpro.android.app:id/tvTitle", "Edit Set Group" - (468,1122,812,1195)
+5. Button: "com.myswimpro.android.app:id/buttonSave", "SAVE" - (978,1086,1242,1230)
+6. ScrollView: "com.myswimpro.android.app:id/svEdit", "com.myswimpro.android.app:id/svEdit" - (38,1243,1242,1755)
+7. TextView: "com.myswimpro.android.app:id/tvSetGroupTitle", "Title" - (98,1279,203,1352)
+8. EditText: "com.myswimpro.android.app:id/etTitle", "Warm Up" - (110,1370,1206,1506)
+9. TextView: "Group Reps" - (98,1606,377,1679)
+10. FrameLayout: "com.myswimpro.android.app:id/vDecrement", "com.myswimpro.android.app:id/vDecrement" - (762,1593,902,1692)
+11. EditText: "com.myswimpro.android.app:id/etValue", "1" - (902,1593,1042,1692)
+12. FrameLayout: "com.myswimpro.android.app:id/vIncrement", "com.myswimpro.android.app:id/vIncrement" - (1042,1593,1182,1692)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.workout.WorkoutActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

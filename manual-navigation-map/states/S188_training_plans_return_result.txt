@@ -1,0 +1,24 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ImageButton: "Navigate up" - (0,156,168,324)
+3. TextView: "Training Plans" - (216,199,607,280)
+4. RecyclerView: "com.myswimpro.android.app:id/rvTrainingPlans", "com.myswimpro.android.app:id/rvTrainingPlans" - (0,324,1280,2784)
+5. FrameLayout: "android.widget.FrameLayout" - (12,336,1268,672)
+6. TextView: "Generate Personalized Plan" - (300,433,969,506)
+7. TextView: "AI-powered plan tailored to your goals" - (300,518,1004,575)
+8. FrameLayout: "android.widget.FrameLayout" - (12,672,1268,1512)
+9. ImageView: "com.myswimpro.android.app:id/ivTp", "com.myswimpro.android.app:id/ivTp" - (36,708,1244,1355)
+10. TextView: "com.myswimpro.android.app:id/tvNext", "30 Day Swim Faster Protocol™" - (60,1379,783,1452)
+11. FrameLayout: "android.widget.FrameLayout" - (12,1512,1268,2352)
+12. ImageView: "com.myswimpro.android.app:id/ivTp", "com.myswimpro.android.app:id/ivTp" - (36,1548,1244,2195)
+13. TextView: "com.myswimpro.android.app:id/tvNext", "Getting Started for Beginners" - (60,2219,759,2292)
+14. FrameLayout: "android.widget.FrameLayout" - (12,2352,1268,2784)
+15. ImageView: "com.myswimpro.android.app:id/ivTp", "com.myswimpro.android.app:id/ivTp" - (36,2388,1244,2784)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.activity.TrainingPlanListActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}

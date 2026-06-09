@@ -1,0 +1,38 @@
+**Current Phone State:**
+• **App:** MySwimPro (com.myswimpro.android.app)
+• **Keyboard:** Hidden
+• **Focused Element:** ''
+
+Current Clickable UI elements:
+'index. className: resourceId; checkedState, text - bounds(x1,y1,x2,y2)':
+1. FrameLayout: "android.widget.FrameLayout" - (0,0,1280,2856)
+2. ScrollView: "android.widget.ScrollView" - (0,156,1280,2784)
+3. FrameLayout: "com.myswimpro.android.app:id/collapse_toolbar", "30 Day Swim Faster Protocol™" - (0,156,1280,906)
+4. ImageButton: "Navigate up" - (0,156,168,324)
+5. RecyclerView: "com.myswimpro.android.app:id/recyclerView", "com.myswimpro.android.app:id/recyclerView" - (0,906,1280,2784)
+6. RelativeLayout: "android.widget.RelativeLayout" - (0,954,1280,1035)
+7. TextView: "com.myswimpro.android.app:id/tvTitle", "Swim faster in 30 days guaranteed!" - (24,978,687,1035)
+8. RelativeLayout: "android.widget.RelativeLayout" - (0,1035,1280,1294)
+9. TextView: "com.myswimpro.android.app:id/tvTitle", "Who's it for?" - (24,1059,255,1116)
+10. TextView: "com.myswimpro.android.app:id/tvDescription", "You're serious about swimming faster, improving your feel of the water and swimming with more efficiency. " - (36,1116,1256,1294)
+11. RelativeLayout: "android.widget.RelativeLayout" - (0,1294,1280,1602)
+12. TextView: "com.myswimpro.android.app:id/tvTitle", "How does it work?" - (24,1318,370,1375)
+13. TextView: "com.myswimpro.android.app:id/tvDescription", "This plan incorporates The SwimEfficiency™ Blueprint to improve technique, increase power per stroke, and swim faster in 30 days. " - (36,1375,1256,1602)
+14. RelativeLayout: "android.widget.RelativeLayout" - (0,1602,1280,1812)
+15. TextView: "com.myswimpro.android.app:id/tvTitle", "Weekly Volume" - (24,1626,315,1683)
+16. TextView: "com.myswimpro.android.app:id/tvDescription", "com.myswimpro.android.app:id/tvDescription" - (36,1683,60,1812)
+17. RelativeLayout: "android.widget.RelativeLayout" - (0,1812,1280,2412)
+18. RelativeLayout: "android.widget.RelativeLayout" - (0,2412,1280,2493)
+19. TextView: "com.myswimpro.android.app:id/tvTitle", "Week 1" - (24,2436,163,2493)
+20. ViewGroup: "com.myswimpro.android.app:id/swipeRevealLayout", "com.myswimpro.android.app:id/swipeRevealLayout" - (0,2493,1280,2673)
+21. RelativeLayout: "com.myswimpro.android.app:id/rlContent", "com.myswimpro.android.app:id/rlContent" - (0,2493,1280,2673)
+22. TextView: "com.myswimpro.android.app:id/tvTitleVertical", "Welcome Workout" - (48,2526,388,2583)
+23. TextView: "com.myswimpro.android.app:id/tvDistanceVertical", "1200 meters" - (48,2583,1232,2640)
+24. ViewGroup: "com.myswimpro.android.app:id/swipeRevealLayout", "com.myswimpro.android.app:id/swipeRevealLayout" - (0,2673,1280,2784)
+25. RelativeLayout: "com.myswimpro.android.app:id/rlContent", "com.myswimpro.android.app:id/rlContent" - (0,2673,1280,2784)
+26. TextView: "com.myswimpro.android.app:id/tvTitleVertical", "Distance Per Stroke Calibration" - (48,2706,626,2763)
+27. TextView: "com.myswimpro.android.app:id/tvDistanceVertical", "1300 meters" - (48,2763,1232,2784)
+28. RelativeLayout: "com.myswimpro.android.app:id/rlStartPlan", "com.myswimpro.android.app:id/rlStartPlan" - (36,2595,1244,2748)
+29. TextView: "com.myswimpro.android.app:id/tvStartPlan", "Start Plan" - (546,2643,733,2700)
+
+Phone state: {'currentApp': 'MySwimPro', 'packageName': 'com.myswimpro.android.app', 'activityName': 'com.myswimpro.android.app.activity.TrainingPlanActivity', 'keyboardVisible': False, 'isEditable': False, 'focusedElement': {'resourceId': ''}}
