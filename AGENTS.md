@@ -1,6 +1,5 @@
 <!-- SPECKIT START -->
-For additional context about technologies to be used, project structure,
-shell commands, and other important information, read the current plan
+Current Spec Kit plan: specs/001-app-shell-navigation/plan.md
 <!-- SPECKIT END -->
 
 Before creating or changing specs, plans, tasks, or implementation, read
